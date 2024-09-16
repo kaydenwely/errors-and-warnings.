@@ -1,0 +1,8 @@
+let stringA = "kayden";
+console.log(stringA)
+
+let stringB = "17";
+console.warn(stringB)
+
+let stringC = "keizer";
+console.error(stringC)
